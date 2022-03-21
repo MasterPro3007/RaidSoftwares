@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+#chi_sono{
+    float:right;
+}
+
+.nomePlayer{
+    text-align: right;
+}
+
+.gioco_wardwall{
+    float:center;
+}
+
+.nomeGiocatore{
+    float:right;
+}
+
+.navbar-nav{
+    border-radius: 70px;
+}
